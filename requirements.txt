@@ -9,6 +9,8 @@ nltk
 tqdm
 PyYAML
 matplotlib
+pandas
+numpy
 torch
 notebook
 boto3
